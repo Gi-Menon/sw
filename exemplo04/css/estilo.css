@@ -1,0 +1,65 @@
+.corpo{
+	margin:auto;
+	text-align: center;
+	padding: auto;
+	border: 1px solid #696969;
+}
+th{
+	border: 1px solid #696969;
+}
+.imagem {
+	width: 200px;
+}
+.fundo{
+	width:95%;
+	margin:2.5%;
+	background-color:#6c84a1;
+	border-style: solid;
+	border-width: 30px;
+	border-color:#6c84a1;
+	border-radius: 50px; 
+	top: 200px;
+}
+
+.fundo2{
+	width:95%;
+	margin:2.5%;
+	background-color:white;
+	border-style: solid;
+	border-width: 60px;
+	border-color:white;
+	top: 200px;
+	border-radius: 50px; 
+	margin: auto;
+}
+.barra{
+	width:350px;
+	padding: 3px; 
+	border-radius: 15px; 
+	background-color:white;
+	color: black;
+	
+}
+.pesq{
+	padding: 3px; 
+	border-radius: 5px;
+	background-color:#6c84a1;
+	border-color:#6c84a1;
+}
+
+/*botões*/
+
+.aceita{
+	color: white;
+	padding: 10px; 
+	border-radius: 5px;
+	background-color:#6c84a1;
+	border-color:#6c84a1;
+}
+.nao{
+	color: white;
+	padding: 10px; 
+	border-radius: 5px;
+	background-color:#53545c;
+	border-color:#53545c;
+}
